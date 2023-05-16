@@ -1,0 +1,1 @@
+# smartbch-cashtoken-token-metadata-registry
