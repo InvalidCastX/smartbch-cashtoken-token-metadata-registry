@@ -1,0 +1,39 @@
+{
+    "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+    "version": { "major": 1, "minor": 0, "patch": 0 },
+    "latestRevision": "2023-05-16T18:51:35.115Z",
+    "registryIdentity": {
+      "name": "example bcmr",
+      "description": "example bcmr for tokens on chipnet"
+  },
+    "identities": {
+      "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba": {
+        "2023-05-16T18:51:35.115Z": {
+          "name": "🚀HODL",
+          "description": "Meme coin designed to engage and entertain crypto enthusiasts",
+          "token": {
+            "category": "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba",
+            "symbol": "🚀",
+            "decimals": 1
+          },
+          "uris": {
+            "icon": "https://raw.githubusercontent.com/InvalidCastX/smartbch-cashtoken-token-metadata-registry/main/icons/25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba.png"
+          }
+        }
+      },
+      "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba": {
+        "2023-05-16T18:51:35.115Z": {
+          "name": "🚀HODL",
+          "description": "Meme coin designed to engage and entertain crypto enthusiasts",
+          "token": {
+            "category": "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba",
+            "symbol": "🚀",
+            "decimals": 1
+          },
+          "uris": {
+            "icon": "https://raw.githubusercontent.com/InvalidCastX/smartbch-cashtoken-token-metadata-registry/main/icons/25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba.png"
+          }
+        }
+      }
+    }
+}
