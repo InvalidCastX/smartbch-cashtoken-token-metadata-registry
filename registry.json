@@ -1,39 +1,40 @@
 {
-    "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
-    "version": { "major": 1, "minor": 0, "patch": 0 },
-    "latestRevision": "2023-05-16T18:51:35.115Z",
-    "registryIdentity": {
-      "name": "example bcmr",
-      "description": "example bcmr for tokens on chipnet"
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "latestRevision": "2023-05-16T18:51:35.115Z",
+  "registryIdentity": {
+    "name": "example bcmr",
+    "description": "example bcmr for tokens on chipnet"
   },
-    "identities": {
-      "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba": {
-        "2023-05-16T18:51:35.115Z": {
-          "name": "🚀HODL",
-          "description": "Meme coin designed to engage and entertain crypto enthusiasts",
-          "token": {
-            "category": "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba",
-            "symbol": "🚀",
-            "decimals": 1
-          },
-          "uris": {
-            "icon": "https://raw.githubusercontent.com/InvalidCastX/smartbch-cashtoken-token-metadata-registry/main/icons/25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba.png"
-          }
+  "identities": {
+    "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba": {
+      "2023-05-16T18:51:35.115Z": {
+        "name": "🚀HODL",
+        "description": "Meme coin designed to engage and entertain crypto enthusiasts",
+        "token": {
+          "category": "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba",
+          "symbol": "🚀",
+          "decimals": 1
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/InvalidCastX/smartbch-cashtoken-token-metadata-registry/main/icons/25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba.png"
         }
-      },
-      "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba": {
-        "2023-05-16T18:51:35.115Z": {
-          "name": "🚀HODL",
-          "description": "Meme coin designed to engage and entertain crypto enthusiasts",
-          "token": {
-            "category": "25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba",
-            "symbol": "🚀",
-            "decimals": 1
-          },
-          "uris": {
-            "icon": "https://raw.githubusercontent.com/InvalidCastX/smartbch-cashtoken-token-metadata-registry/main/icons/25105cc6482ed9ec7fe99d5697dc806b5b519b0da0122fff444e34cf50a1cdba.png"
-          }
+      }
+    },
+    "2408ab99c64d454571ddeb9a4ff88522a25dd41693d337bf27069f09ff995f8c": {
+      "2023-06-21T03:53:52.164Z": {
+        "name": "Test Martin₿",
+        "description": "Africa Unite Test Token",
+        "token": {
+          "category": "2408ab99c64d454571ddeb9a4ff88522a25dd41693d337bf27069f09ff995f8c",
+          "symbol": "TMartin₿",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/cryptobugnft/assets/master/blockchains/smartbch/assets/0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71/logo.png",
+          "web": ""
         }
       }
     }
+  }
 }
